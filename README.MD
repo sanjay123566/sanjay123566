@@ -1,6 +1,6 @@
 #  Hi there! I'm **Sanjay Mahadev Jadhav** 
 
-### 👨‍💻 Frontend Developer
+### 👨‍💻 Backend Developer
 <kbd>HTML</kbd> &nbsp;|&nbsp; <kbd>CSS</kbd> &nbsp;|&nbsp; <kbd>JavaScript</kbd> <br>
 *Building things for the web 🚀*
 
@@ -8,8 +8,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎨 I'm a **Frontend Developer** passionate about crafting clean, responsive, and user-friendly web experiences.
-- 🌱 I love turning ideas into real products — from wireframes to a working UI.
+- 🎨 I'm a **Backend Developer** about building the robust, invisible engines that power complex web applications..
+- 🌱 My goal is to provide a "functional and insightful" experience by automating budget calculations and trip-sharing logic.
 - 🚀Pastly Builded **Farm2Market**, a stock-market-style agri-tech platform.
 - 💡 Always exploring new web technologies and best practices.
 - 📍 Based in India.
@@ -46,13 +46,13 @@ A **stock-market-style price intelligence and direct B2B procurement platform** 
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/yashgolde151">
+  <a href="">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:yashgolde151@gmail.com">
+  <a href="mailto:mjadhav866909@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yash-golde-11101b3aa/">
+  <a href="https://www.linkedin.com/in/sanjay-jadhav-804a2a391?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -61,5 +61,5 @@ A **stock-market-style price intelligence and direct B2B procurement platform** 
 
 <div align="center">
   <p>⭐ <i>Thanks for visiting! Feel free to explore my repos and leave a star if you find something useful.</i> ⭐</p>
-  <p>Made with ❤️ by Yash Sarjerao Golde</p>
+  <p>Made with ❤️ by Sanjay Mahadev Jadhav</p>
 </div>
