@@ -1,4 +1,4 @@
-#  Hi there! I'm **Yash Sarjerao Golde** 
+#  Hi there! I'm **Sanjay Mahadev Jadhav** 
 
 ### 👨‍💻 Frontend Developer
 <kbd>HTML</kbd> &nbsp;|&nbsp; <kbd>CSS</kbd> &nbsp;|&nbsp; <kbd>JavaScript</kbd> <br>
