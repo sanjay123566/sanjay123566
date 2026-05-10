@@ -46,7 +46,7 @@ A **stock-market-style price intelligence and direct B2B procurement platform** 
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="">
+  <a href="https://github.com/sanjay123566">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:mjadhav866909@gmail.com">
